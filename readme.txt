@@ -1,2 +1,1 @@
-This is a demo website created in Agile project. [ Avocado ]
-git commit -am“A sensible message about the changes you made.”
+We are group 33 with four members in total: kexin Fang (Violet), zihan Shang (Avocado), siyu Fan (Showily), and feiyu Chen (Red). Our team leader in this project is Violet, and she and Acocado are mainly responsible for most of the tasks in the group. They collaborated on the github wiki page and posted some content on the project page, and Acocado did most of the report writing for the group. Showily often participates in discussions and collects information to help the group catch up; Red is responsible for some simple tasks. Each member of the group is involved and is an integral part of the group.
